@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="org.glassfish.jersey.media:jersey-media-multipart:2.18" type="repository">
+    <properties maven-id="org.glassfish.jersey.media:jersey-media-multipart:2.18" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/media/jersey-media-multipart/2.18/jersey-media-multipart-2.18.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/core/jersey-common/2.18/jersey-common-2.18.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/jersey/bundles/repackaged/jersey-guava/2.18/jersey-guava-2.18.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-api/2.4.0-b12/hk2-api-2.4.0-b12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-utils/2.4.0-b12/hk2-utils-2.4.0-b12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/aopalliance-repackaged/2.4.0-b12/aopalliance-repackaged-2.4.0-b12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/external/javax.inject/2.4.0-b12/javax.inject-2.4.0-b12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/hk2-locator/2.4.0-b12/hk2-locator-2.4.0-b12.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/glassfish/hk2/osgi-resource-locator/1.0.1/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jvnet/mimepull/mimepull/1.9.5/mimepull-1.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

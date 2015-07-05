@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SurveyAPI:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SurveyAPI_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SurveyAPI/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SurveyAPI" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="org.glassfish.jersey.containers:jersey-container-servlet:2.18" />
+          <element id="library" level="project" name="org.glassfish.jersey.media:jersey-media-json-jackson:2.18" />
+          <element id="library" level="project" name="org.glassfish.jersey.media:jersey-media-multipart:2.18" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
